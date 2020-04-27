@@ -1,0 +1,318 @@
+[
+    {
+        "project": "BERN",
+        "sourcedb": "PubMed",
+        "sourceid": "22610280",
+        "text": "Peroxiredoxin family proteins are key initiators of post-ischemic inflammation in the brain. Post-ischemic inflammation is an essential step in the progression of brain ischemia-reperfusion injury. However, the mechanism that activates infiltrating macrophages in the ischemic brain remains to be clarified. Here we demonstrate that peroxiredoxin (Prx) family proteins released extracellularly from necrotic brain cells induce expression of inflammatory cytokines including interleukin-23 in macrophages through activation of Toll-like receptor 2 (TLR2) and TLR4, thereby promoting neural cell death, even though intracellular Prxs have been shown to be neuroprotective. The extracellular release of Prxs in the ischemic core occurred 12 h after stroke onset, and neutralization of extracellular Prxs with antibodies suppressed inflammatory cytokine expression and infarct volume growth. In contrast, high mobility group box 1 (HMGB1), a well-known damage-associated molecular pattern molecule, was released before Prx and had a limited role in post-ischemic macrophage activation. We thus propose that extracellular Prxs are previously unknown danger signals in the ischemic brain and that its blocking agents are potent neuroprotective tools.",
+        "denotations": [
+            {
+                "id": [
+                    "CUI-less"
+                ],
+                "span": {
+                    "begin": 0,
+                    "end": 29
+                },
+                "obj": "gene"
+            },
+            {
+                "id": [
+                    "MESH:D007249",
+                    "BERN:257154601"
+                ],
+                "span": {
+                    "begin": 52,
+                    "end": 78
+                },
+                "obj": "disease"
+            },
+            {
+                "id": [
+                    "MESH:D007249",
+                    "BERN:257154601"
+                ],
+                "span": {
+                    "begin": 93,
+                    "end": 119
+                },
+                "obj": "disease"
+            },
+            {
+                "id": [
+                    "MESH:D015427",
+                    "BERN:263728501"
+                ],
+                "span": {
+                    "begin": 163,
+                    "end": 196
+                },
+                "obj": "disease"
+            },
+            {
+                "id": [
+                    "BERN:260724101"
+                ],
+                "span": {
+                    "begin": 268,
+                    "end": 282
+                },
+                "obj": "disease"
+            },
+            {
+                "id": [
+                    "CUI-less"
+                ],
+                "span": {
+                    "begin": 333,
+                    "end": 346
+                },
+                "obj": "gene"
+            },
+            {
+                "id": [
+                    "CUI-less"
+                ],
+                "span": {
+                    "begin": 348,
+                    "end": 351
+                },
+                "obj": "gene"
+            },
+            {
+                "id": [
+                    "MIM:605510",
+                    "HGNC:15563",
+                    "Ensembl:ENSG00000125571",
+                    "BERN:323382102"
+                ],
+                "span": {
+                    "begin": 474,
+                    "end": 488
+                },
+                "obj": "gene"
+            },
+            {
+                "id": [
+                    "MIM:603028",
+                    "HGNC:11848",
+                    "Ensembl:ENSG00000137462",
+                    "BERN:324952502"
+                ],
+                "span": {
+                    "begin": 526,
+                    "end": 546
+                },
+                "obj": "gene"
+            },
+            {
+                "id": [
+                    "MIM:603028",
+                    "HGNC:11848",
+                    "Ensembl:ENSG00000137462",
+                    "BERN:324952502"
+                ],
+                "span": {
+                    "begin": 548,
+                    "end": 552
+                },
+                "obj": "gene"
+            },
+            {
+                "id": [
+                    "MIM:603030",
+                    "HGNC:11850",
+                    "Ensembl:ENSG00000136869",
+                    "BERN:324952702"
+                ],
+                "span": {
+                    "begin": 558,
+                    "end": 562
+                },
+                "obj": "gene"
+            },
+            {
+                "id": [
+                    "CUI-less"
+                ],
+                "span": {
+                    "begin": 627,
+                    "end": 631
+                },
+                "obj": "gene"
+            },
+            {
+                "id": [
+                    "MESH:D020521",
+                    "OMIM:606799",
+                    "BERN:106966501"
+                ],
+                "span": {
+                    "begin": 746,
+                    "end": 752
+                },
+                "obj": "disease"
+            },
+            {
+                "id": [
+                    "MIM:163905",
+                    "HGNC:4983",
+                    "Ensembl:ENSG00000189403",
+                    "BERN:323602702"
+                ],
+                "span": {
+                    "begin": 901,
+                    "end": 926
+                },
+                "obj": "gene"
+            },
+            {
+                "id": [
+                    "MIM:163905",
+                    "HGNC:4983",
+                    "Ensembl:ENSG00000189403",
+                    "BERN:323602702"
+                ],
+                "span": {
+                    "begin": 928,
+                    "end": 933
+                },
+                "obj": "gene"
+            }
+        ],
+        "timestamp": "Mon Apr 27 09:31:08 +0000 2020",
+        "logits": {
+            "disease": [
+                [
+                    {
+                        "start": 52,
+                        "end": 78,
+                        "id": "MESH:D007249\tBERN:257154601"
+                    },
+                    0.9999992847442627
+                ],
+                [
+                    {
+                        "start": 93,
+                        "end": 119,
+                        "id": "MESH:D007249\tBERN:257154601"
+                    },
+                    0.9999993443489075
+                ],
+                [
+                    {
+                        "start": 163,
+                        "end": 196,
+                        "id": "MESH:D015427\tBERN:263728501"
+                    },
+                    0.9999998807907104
+                ],
+                [
+                    {
+                        "start": 268,
+                        "end": 282,
+                        "id": "BERN:260724101"
+                    },
+                    0.9985538125038147
+                ],
+                [
+                    {
+                        "start": 746,
+                        "end": 752,
+                        "id": "MESH:D020521\tOMIM:606799\tBERN:106966501"
+                    },
+                    0.9999988079071045
+                ]
+            ],
+            "gene": [
+                [
+                    {
+                        "start": 0,
+                        "end": 29,
+                        "id": "CUI-less"
+                    },
+                    0.9999915957450867
+                ],
+                [
+                    {
+                        "start": 333,
+                        "end": 346,
+                        "id": "CUI-less"
+                    },
+                    0.9999971389770508
+                ],
+                [
+                    {
+                        "start": 348,
+                        "end": 351,
+                        "id": "CUI-less"
+                    },
+                    0.9999972581863403
+                ],
+                [
+                    {
+                        "start": 474,
+                        "end": 488,
+                        "id": "MIM:605510\tHGNC:15563\tEnsembl:ENSG00000125571\tBERN:323382102"
+                    },
+                    0.9999969601631165
+                ],
+                [
+                    {
+                        "start": 526,
+                        "end": 546,
+                        "id": "MIM:603028\tHGNC:11848\tEnsembl:ENSG00000137462\tBERN:324952502"
+                    },
+                    0.9999970197677612
+                ],
+                [
+                    {
+                        "start": 548,
+                        "end": 552,
+                        "id": "MIM:603028\tHGNC:11848\tEnsembl:ENSG00000137462\tBERN:324952502"
+                    },
+                    0.9999974966049194
+                ],
+                [
+                    {
+                        "start": 558,
+                        "end": 562,
+                        "id": "MIM:603030\tHGNC:11850\tEnsembl:ENSG00000136869\tBERN:324952702"
+                    },
+                    0.9999973773956299
+                ],
+                [
+                    {
+                        "start": 627,
+                        "end": 631,
+                        "id": "CUI-less"
+                    },
+                    0.9999970197677612
+                ],
+                [
+                    {
+                        "start": 901,
+                        "end": 926,
+                        "id": "MIM:163905\tHGNC:4983\tEnsembl:ENSG00000189403\tBERN:323602702"
+                    },
+                    0.9999970197677612
+                ],
+                [
+                    {
+                        "start": 928,
+                        "end": 933,
+                        "id": "MIM:163905\tHGNC:4983\tEnsembl:ENSG00000189403\tBERN:323602702"
+                    },
+                    0.9999973773956299
+                ]
+            ],
+            "drug": [],
+            "species": []
+        },
+        "elapsed_time": {
+            "tmtool": 1.05,
+            "ner": 0.502,
+            "normalization": 2.82,
+            "total": 4.373
+        }
+    }
+]

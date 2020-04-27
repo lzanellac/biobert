@@ -1,0 +1,17 @@
+22610280|t|Peroxiredoxin family proteins are key initiators of post-ischemic inflammation in the brain.
+22610280|a|Post-ischemic inflammation is an essential step in the progression of brain ischemia-reperfusion injury. However, the mechanism that activates infiltrating macrophages in the ischemic brain remains to be clarified. Here we demonstrate that peroxiredoxin (Prx) family proteins released extracellularly from necrotic brain cells induce expression of inflammatory cytokines including interleukin-23 in macrophages through activation of Toll-like receptor 2 (TLR2) and TLR4, thereby promoting neural cell death, even though intracellular Prxs have been shown to be neuroprotective. The extracellular release of Prxs in the ischemic core occurred 12 h after stroke onset, and neutralization of extracellular Prxs with antibodies suppressed inflammatory cytokine expression and infarct volume growth. In contrast, high mobility group box 1 (HMGB1), a well-known damage-associated molecular pattern molecule, was released before Prx and had a limited role in post-ischemic macrophage activation. We thus propose that extracellular Prxs are previously unknown danger signals in the ischemic brain and that its blocking agents are potent neuroprotective tools.
+22610280	0	29	Peroxiredoxin family proteins	gene	CUI-less
+22610280	52	78	post-ischemic inflammation	disease	MESH:D007249|BERN:257154601
+22610280	93	119	Post-ischemic inflammation	disease	MESH:D007249|BERN:257154601
+22610280	163	196	brain ischemia-reperfusion injury	disease	MESH:D015427|BERN:263728501
+22610280	268	282	ischemic brain	disease	BERN:260724101
+22610280	333	346	peroxiredoxin	gene	CUI-less
+22610280	348	351	Prx	gene	CUI-less
+22610280	474	488	interleukin-23	gene	MIM:605510|HGNC:15563|Ensembl:ENSG00000125571|BERN:323382102
+22610280	526	546	Toll-like receptor 2	gene	MIM:603028|HGNC:11848|Ensembl:ENSG00000137462|BERN:324952502
+22610280	548	552	TLR2	gene	MIM:603028|HGNC:11848|Ensembl:ENSG00000137462|BERN:324952502
+22610280	558	562	TLR4	gene	MIM:603030|HGNC:11850|Ensembl:ENSG00000136869|BERN:324952702
+22610280	627	631	Prxs	gene	CUI-less
+22610280	746	752	stroke	disease	MESH:D020521|OMIM:606799|BERN:106966501
+22610280	901	926	high mobility group box 1	gene	MIM:163905|HGNC:4983|Ensembl:ENSG00000189403|BERN:323602702
+22610280	928	933	HMGB1	gene	MIM:163905|HGNC:4983|Ensembl:ENSG00000189403|BERN:323602702
